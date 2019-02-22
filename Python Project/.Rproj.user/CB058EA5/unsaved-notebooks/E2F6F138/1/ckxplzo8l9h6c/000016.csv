@@ -1,0 +1,6 @@
+"0","hist(as.numeric(data$time), xlim = (100:200))
+"
+"2","NAs produced by integer overflow"
+"2","NAs produced by integer overflow"
+"2","Error in plot.window(xlim, ylim, """", ...) : invalid 'xlim' value
+"

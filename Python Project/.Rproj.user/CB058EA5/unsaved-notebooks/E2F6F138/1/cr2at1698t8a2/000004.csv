@@ -1,0 +1,5 @@
+"0","write_csv(test, 'CryptoData_head.csv')
+"
+"2","Error in write_csv(test, ""CryptoData_head.csv"") : 
+  could not find function ""write_csv""
+"

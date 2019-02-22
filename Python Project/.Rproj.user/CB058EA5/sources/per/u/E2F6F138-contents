@@ -1,0 +1,30 @@
+---
+title: "Python Project EDA"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+
+A bit of EDA
+
+
+```{r}
+data = CryptonewsData
+dim(data)
+head(data)
+names(data)
+test = head(CryptonewsData,500)
+write_csv(test, 'CryptoData_head.csv')
+```
+
+```{r}
+
+```
+
